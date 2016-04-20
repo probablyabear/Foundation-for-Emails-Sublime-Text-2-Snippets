@@ -1,0 +1,1 @@
+# Foundation for Emails HTML Snippets

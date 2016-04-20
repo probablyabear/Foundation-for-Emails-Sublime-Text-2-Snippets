@@ -1,0 +1,31 @@
+<snippet>
+  <content><![CDATA[
+<table class="container">
+  <tbody>
+    <tr>
+      <td>
+        <table class="row">
+          <tbody>
+            <tr>
+              <th class="small-12 large-12 columns first last">
+                <table>
+                  <tr>
+                    <th>This is a column. Columns contain your content.</th>
+                    <th class="expander"></th>
+                  </tr>
+                </table>
+              </th>
+            </tr>
+          </tbody>
+        </table>
+      </td>
+    </tr>
+  </tbody>
+</table>
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>fe-boilerplate</tabTrigger>
+  <description>Foundation for Emails index.html Boilerplate</description>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>text.html</scope>
+</snippet>
